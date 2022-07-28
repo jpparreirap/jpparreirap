@@ -6,7 +6,7 @@
 
 <div style="font-size: 15px">
 <p>
-    Sou programador mais voltado ao backend, porém tenho conhecimento em frontend também. Entusiasta em backend, desenvolvimento de jogos, segurança da informação, devOps e infraestrutura. Python lover.
+    Sou dev mais voltado ao backend, porém tenho conhecimento em frontend também. Entusiasta em backend, desenvolvimento de jogos, segurança da informação, devOps e infraestrutura. Python lover.
 </p>
 
 <ul>
