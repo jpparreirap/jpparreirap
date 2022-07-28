@@ -10,10 +10,10 @@
 </p>
 
 <ul>
-    <li>Atualmente trabalho na empresa ProRadis desempenhando atividades na área de produto, desenvolvimento e devops.</li>
-    <li>Continuo me capacitando através da plataforma Alura e DIO por meio de cursos e bootcamps.</li>
-    <li>Atualmente estou me aprofundando em C# e a stack do .NET.</li>
-    <li>Recentemente finalizei os bootcamps da TQI e Santander. </li>
+    <li>🧑💼 Atualmente trabalho na empresa ProRadis desempenhando atividades na área de produto, desenvolvimento e devops.</li>
+    <li>📚 Continuo me capacitando através da plataforma Alura e DIO por meio de cursos e bootcamps.</li>
+    <li>🤓 Atualmente estou me aprofundando em C# e a stack do .NET.</li>
+    <li>🚀 Recentemente finalizei os bootcamps da TQI e Santander. </li>
 </ul>
 </div>
 
