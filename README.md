@@ -4,7 +4,7 @@
 
 <h2 style="text-decoration: underline; font-weight: 500;">Sobre:</h2>
 
-<div style="font-size: 15px">
+<div style="font-size: 16px">
 <p>
     Sou dev mais voltado ao backend, porém tenho conhecimento em frontend também. Entusiasta em backend, desenvolvimento de jogos, segurança da informação, devOps e infraestrutura. Python lover.
 </p>
