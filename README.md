@@ -1,4 +1,4 @@
-# Olá muito bem vindo, sou o João Paulo! <img style = "display: inline-block; margin: auto;" height="30" src= "https://cdn.discordapp.com/attachments/752387795280068713/1002096399669788753/wavingHand.gif"/>
+# Olá muito bem vindo, sou o João Paulo! <img style = "display: inline-block; margin: auto;" height="30" src= "https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/>
 
 ![](https://komarev.com/ghpvc/?username=jpparreirap&style=plastic)
 
@@ -6,14 +6,13 @@
 
 <div style="font-size: 16px">
 <p>
-    Sou dev mais voltado ao backend, porém tenho conhecimento em frontend também. Entusiasta em backend, desenvolvimento de jogos, segurança da informação, devOps e infraestrutura. Python lover.
+    Sou dev FullStack, .NET e Vue.js. Entusiasta em backend, desenvolvimento de jogos, segurança da informação. Python lover.
 </p>
 
 <ul>
-    <li>🧑💼 Atualmente trabalho na empresa ProRadis desempenhando atividades na área de produto, desenvolvimento e devops.</li>
-    <li>📚 Continuo me capacitando através da plataforma Alura e DIO por meio de cursos e bootcamps.</li>
-    <li>🤓 Atualmente estou me aprofundando em C# e a stack do .NET.</li>
-    <li>🚀 Recentemente finalizei os bootcamps da TQI e Santander. </li>
+    <li>🧑💼 Atualmente trabalho na empresa Proradis como desenvolvedor de software.</li>
+    <li>🤓 Possuo o nível de inglês intermediário. E atualmente estou me desenvolvendo para a fluência.</li>
+    <li>📚🚀 Continuo me capacitando através da plataforma Alura e DIO por meio de cursos e bootcamps.</li>
 </ul>
 </div>
 
@@ -30,14 +29,11 @@
 <!-- Tecnologias -->
 <div style="display: inline_block; margin-bottom:30px"><br>
   <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" style="background-color:darkgreen" alt="JP-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="JP-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JP-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="JP-net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="JP-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JP-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JP-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="JP-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JP-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JP-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
